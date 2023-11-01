@@ -1,0 +1,3 @@
+﻿  tehtava06.cpp
+C:\Users\leevi\Documents\C++\Tehtävä 1\tehtava06\tehtava06\tehtava06.cpp(25): warning C4715: 'guessNumber': not all control paths return a value
+  tehtava06.vcxproj -> C:\Users\leevi\Documents\C++\Tehtävä 1\tehtava06\x64\Debug\tehtava06.exe
